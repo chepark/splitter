@@ -1,0 +1,43 @@
+@import "./variables";
+@import "./body";
+@import "./root";
+@import "./columnLeft";
+@import "./columnRight";
+
+.splitter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+
+.splitter-title {
+  color: $dark-cyan;
+  letter-spacing: 10px;
+  font-size: larger;
+  text-shadow: 1px 4px 4px $grayish-cyan;
+}
+
+.splitter-calculator {
+  min-width: 700px;
+  max-width: 920px;
+  height: auto;
+
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: 48% 48%;
+
+  background-color: $white;
+  padding: 32px;
+  border-radius: 25px;
+}
+
+.splitter-column {
+  flex-basis: 420px;
+  // height: 100%;
+}
+
+.splitter-section:nth-child(2) {
+  margin: 20px 0;
+}
