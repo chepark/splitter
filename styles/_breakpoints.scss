@@ -1,0 +1,10 @@
+$breakpoints: (
+  "desktop": 1440px,
+  "mobile": 375px,
+);
+
+@mixin mobile {
+  @media (min-width: map-get($breakpoints, "mobile")) {
+    @content;
+  }
+}
