@@ -37,10 +37,11 @@ const removePreviousCustomTip = () => {
 };
 
 // Calcalate tip
-const calculateTip = () => (bill * (tipPercent * 0.01)) / numberOfPeople;
+const calculateTip = () =>
+  ((bill * (tipPercent * 0.01)) / numberOfPeople).toFixed(2);
 
 // Calculate bill
-const calculateBill = () => bill / numberOfPeople;
+const calculateBill = () => (bill / numberOfPeople).toFixed(2);
 
 //* FUNCTIONS for UI *//
 // Display results

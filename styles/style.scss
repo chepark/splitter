@@ -29,7 +29,8 @@
 
     display: grid;
     justify-content: space-between;
-    grid-template-columns: 48% 48%;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
 
     background-color: $white;
     padding: 32px;
@@ -108,5 +109,10 @@
     justify-content: center;
     grid-template-columns: repeat(2, 45%);
     gap: 1.2rem;
+  }
+
+  .euro-sign,
+  .result__value {
+    font-size: 24px;
   }
 }
