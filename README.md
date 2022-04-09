@@ -25,7 +25,3 @@
 - Download and install Git
 - `> git clone https://github.com/chepark/splitter.git`
 - Open `index.html` file on a browser.
-
-## Sources
-
-https://www.figma.com/file/5PgWPwUclOBDelMDqlYfIl/tip-calculator-app?node-id=0%3A1
