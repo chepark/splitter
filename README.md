@@ -13,6 +13,7 @@
 
 - To learn styling the `<form>` element and the `<input>` element
 - To use Using media queries in Sass
+- To create a working product by matching the [UI design](https://www.figma.com/file/5PgWPwUclOBDelMDqlYfIl/tip-calculator-app?node-id=0%3A1) as closely as possible.
 
 ## 💻 Technologies
 
@@ -22,10 +23,6 @@
 
 ## 🔨 Set up
 
-- Download and install Git
-- `> git clone https://github.com/chepark/splitter.git`
-- Open `index.html` file on a browser.
-
-## Sources
-
-https://www.figma.com/file/5PgWPwUclOBDelMDqlYfIl/tip-calculator-app?node-id=0%3A1
+- Download and install Git.
+- Open git bash and type the following command line. `git clone https://github.com/chepark/splitter.git`
+- Open `index.html` file to run on a browser.
