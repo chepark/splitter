@@ -150,6 +150,10 @@
   color: #00494d;
 }
 
+.option__input {
+  padding: 8px;
+}
+
 .option__input::-webkit-input-placeholder {
   text-align: center;
 }
