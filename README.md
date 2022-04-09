@@ -1,1 +1,3 @@
 # Splitter
+
+![](./assets/demo.gif)
