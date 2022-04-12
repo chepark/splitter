@@ -22,12 +22,6 @@
 - JavaScript
 
 ## 🔨 Set up
-
-<<<<<<< HEAD
-- Download and install Git.
-- Open git bash and type the following command line. `git clone https://github.com/chepark/splitter.git`
-- Open `index.html` file to run on a browser.
-=======
 - Download and install Git
 - `> git clone https://github.com/chepark/splitter.git`
 - Open `index.html` file on a browser.
