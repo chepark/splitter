@@ -31,4 +31,4 @@
 - Download and install Git
 - `> git clone https://github.com/chepark/splitter.git`
 - Open `index.html` file on a browser.
->>>>>>> 2880f4a6e7bb014a1240085186ac5f85ac60fced
+
