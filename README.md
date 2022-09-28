@@ -18,7 +18,7 @@
 ## 💻 Technologies
 
 - HTML
-- Sass
+- SCSS
 - JavaScript
 
 ## 🔨 Set up
